@@ -8,7 +8,7 @@ def menu():
         print('What do you want to do?')
         print('1.Enter a new record')
         print('2.Output all records')
-        print('3. Delete abonent')
+        print('3. Delete abonent'.p.)
         print('4.Quit the program')
         a=input()
         if a=='1':
